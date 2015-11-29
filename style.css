@@ -1,1 +1,58 @@
-
+header{
+	background-image: url("http://www.pixeden.com/media/k2/galleries/112/001-subtle-light-pattern-background-texture.jpg");
+	background-attachment:fixed;
+	clear:both;
+}
+li,p{
+    list-style-type:square;
+    padding:5px;
+    margin:5px;
+}
+.conteneur{
+	display:inline-block;
+	width:100%;
+	max-width:960px;
+	padding:20px;
+	margin:20px;
+	margin-left: 30px;
+}
+.en_tete{
+	display:inline-block;
+	vertical-align:middle;
+	margin:20px;
+}
+img{
+	display:inline-block;
+	vertical-align:middle;
+	float: left;
+	width: 150px;
+	height: 150px;
+}
+main{
+	background-image:url("http://www.pixeden.com/media/k2/galleries/112/001-subtle-light-pattern-background-texture.jpg");
+	background-attachment:fixed;
+	clear:both;
+}
+iframe{
+	display:inline-block;
+    vertical-align:top;
+	border-radius: 5px 5px 5px 5px;
+	width:50%;
+	margin:5px;
+	margin-left: 30px;
+}
+footer{
+	background-image:url("http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/low_contrast_linen.png");
+	clear:both;
+	border: 2px solid black;
+	border-radius: 5px 5px 5px 5px;
+	
+}
+.cor{
+	display:inline-block;
+	border: 2px solid black;
+	border-radius: 5px 5px 5px 5px;
+	background-image: url("http://www.pixeden.com/media/k2/galleries/112/001-subtle-light-pattern-background-texture.jpg");
+	padding: 15px;
+	margin: 10px;
+}
